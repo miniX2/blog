@@ -1,0 +1,22 @@
+title: "aezi's blog"
+description: "Welcome to all my thoughts and views. Enjoy."
+baseurl: "/"
+url: "https://blog.aezlo.com"
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
+
+footer: 'follow us on <a href="https://twitter.com/aezlox">twitter</a> or email me <a href="mailto:pixelfest0@gmail.com">here</a>'
+
+style: dark
+#listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
+
+layout: default
+comments: true
+# other options
