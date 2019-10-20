@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://blog.aezlo.com"
 
 header_pages:
-  - index.md
+  - socials.md
   - peter.md
   - about.md
   - contact.md
