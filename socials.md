@@ -1,3 +1,9 @@
+---
+title: socials
+layout: home
+permalink: /socials
+---
+
 Feel free to track my progress on these links
 
 [github](https://github.com/minichest)
