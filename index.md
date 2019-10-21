@@ -1,5 +1,5 @@
 ---
-title: welcome
+title: welcome to aezi's blog
 layout: home
 permalink: /
 ---
